@@ -22,3 +22,7 @@ Here is a preview of what the rescaled data lookes like:
 Here are the fake faces generated for 2,000 epochs:
 \
 ![alt-text](https://github.com/dalilr/face_generator_gan/blob/master/visages_generes.gif)
+
+#
+I am quite satisfied with the results, which look good after the 1100th epoch, considering this is only the second time I implement 
+a generative adversarial network, and with (very) limited computational resources.
